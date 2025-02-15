@@ -1,5 +1,5 @@
 # bigScreen
-基于v-scale-screen依赖包做出的修改，可以同时在宽度和高度上自适应屏幕尺寸，适用于各种宽高比的屏幕（但会存在一定的拉伸问题）
+适应于vue2版本，是基于v-scale-screen依赖包做出的修改，可以同时在宽度和高度上自适应屏幕尺寸，适用于各种宽高比的屏幕（但会存在一定的拉伸问题），如果不能满足你的需求，可以试试[v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen)
 
 ## 使用方法
 
